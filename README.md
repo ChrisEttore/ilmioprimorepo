@@ -10,3 +10,4 @@ questo è il primo repository git lo imparerò nelle lezioni di tps
 - maciachini
 - zara
 - sondrio
+- centrale
