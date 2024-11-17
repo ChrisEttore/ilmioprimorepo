@@ -12,3 +12,4 @@ questo è il primo repository git lo imparerò nelle lezioni di tps
 - sondrio
 - centrale
 - repubblica
+- turati
