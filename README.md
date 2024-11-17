@@ -11,3 +11,4 @@ questo è il primo repository git lo imparerò nelle lezioni di tps
 - zara
 - sondrio
 - centrale
+- repubblica
