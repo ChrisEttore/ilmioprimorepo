@@ -8,3 +8,4 @@ questo è il primo repository git lo imparerò nelle lezioni di tps
 - affori centro
 - dergano
 - maciachini
+- zara
