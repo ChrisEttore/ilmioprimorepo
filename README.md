@@ -4,4 +4,5 @@ questo è il primo repository git lo imparerò nelle lezioni di tps
 ## fermate della metro di milano
 ### metro gialla
 - comasina
-- affori fn
+- affori fN
+- affori centro
