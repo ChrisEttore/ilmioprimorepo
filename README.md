@@ -9,3 +9,4 @@ questo è il primo repository git lo imparerò nelle lezioni di tps
 - dergano
 - maciachini
 - zara
+- sondrio
